@@ -100,7 +100,7 @@ sudo systemctl restart "snips*"
 ```
 
 ## Sonos configuration
-On every player you have add a library that points to your Raspberry. If you raspberry ip is "**192.168.1.150**" add a library on Sonos that points to "**\\192.168.1.150\share**"
+On every player you have add a library that points to your Raspberry. If you raspberry ip is "**192.168.1.150**" add a library on Sonos that points to "**//192.168.1.150/share**"
 
 
 **!! Make sure that you name the sonos players the same as you name your Snips satellites !!**
