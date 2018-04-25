@@ -1,0 +1,38 @@
+{
+  "name" : "SonosInvader",
+  "intents" : [ {
+    "id" : "Psychokiller1888:getLocalTime",
+    "type" : "registry",
+    "version" : "0.0.2",
+    "language" : "en",
+    "slots" : [ ],
+    "name" : "getLocalTime"
+  }, {
+    "id" : "Psychokiller1888:sonosRetreat",
+    "type" : "registry",
+    "version" : "0.0.4",
+    "language" : "en",
+    "slots" : [ ],
+    "name" : "sonosRetreat"
+  }, {
+    "id" : "Psychokiller1888:sonosInvade",
+    "type" : "registry",
+    "version" : "0.0.3",
+    "language" : "en",
+    "slots" : [ ],
+    "name" : "sonosInvade"
+  } ],
+  "createdAt" : "2018-04-25T11:14:42.349Z",
+  "language" : "en",
+  "nluEngine" : {
+    "version" : "0.13.0"
+  },
+  "platform" : {
+    "type" : "raspberrypi"
+  },
+  "asr" : {
+    "type" : "snips"
+  },
+  "analyticsEnabled" : true,
+  "hotword" : "hey_snips"
+}
