@@ -103,18 +103,19 @@ sudo systemctl restart "snips*"
 On every player you have add a library that points to your Raspberry. If you raspberry ip is "**192.168.1.150**" add a library on Sonos that points to "**\\192.168.1.150\share**"
 
 
-**!! Make sure that you name the sonos players the same as you name your Snips satelittes !!**
+**!! Make sure that you name the sonos players the same as you name your Snips satellites !!**
 
 
 ## Let's start the demo script
 
 Edit _sonosInvader.py_ and change
-On line 16: Set 'office' to 'the place this satelitte is'. Exemple, my Snips device is running in my bedroom. My sonos unit there is also called bedroom, i'd set this to 'bedroom'
+On line 16: Set 'office' to 'the place this satellite is'. Exemple, my Snips device is running in my bedroom. My sonos unit there is also called bedroom, i'd set this to 'bedroom'
 
 On line 17: The language to use. Check pico2wave for available language. For french you'd use "fr-FR"
 
 ```
 cd /home/pi/SnipsSonosInvader
+sudo chmod +x snipsTalk.sh
 python sonosInvader.py
 ```
 
