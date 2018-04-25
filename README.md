@@ -124,3 +124,8 @@ At the begining Snips will talk to you through your internal speaker. Ask it for
 If you want it to use your Sonos when available, ask it to! "Hey Snips! Use my sonos!"
 
 If you want it to stop using your Sonos, ask it! "Hey Snips! Stop using my sonos!"
+
+
+## Troubleshooting
+
+Make sure SnipsSonosInvader/snipsTalk.sh, after cloning the repo, has line endings set to LF
