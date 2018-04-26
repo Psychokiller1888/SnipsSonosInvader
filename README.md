@@ -109,9 +109,10 @@ On every player you have add a library that points to your Raspberry. If you ras
 ## Let's start the demo script
 
 Edit _sonosInvader.py_ and change
-On line 16: Set 'office' to 'the place this satellite is'. Exemple, my Snips device is running in my bedroom. My sonos unit there is also called bedroom, i'd set this to 'bedroom'
 
-On line 17: The language to use. Check pico2wave for available language. For french you'd use "fr-FR"
+* On line 16: Set 'office' to 'the place this satellite is'. Exemple, my Snips device is running in my bedroom. My sonos unit there is also called bedroom, i'd set this to 'bedroom'
+
+* On line 17: The language to use. Check pico2wave for available language. For french you'd use "fr-FR"
 
 ```
 cd /home/pi/SnipsSonosInvader
