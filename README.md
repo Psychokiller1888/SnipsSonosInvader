@@ -6,6 +6,8 @@ This demo script will show you how to use your Sonos installation as Snips speak
 
 I have been asked many time how it works, so you have here a full working exemple.
 
+Snips will try, if instructed to, to speak through a Sonos player if one is detected in the room you are having the conversation. If no Sonos detected or not instructed to use Sonos it will use its internal speaker.
+
 
 ## Installation
 ```
