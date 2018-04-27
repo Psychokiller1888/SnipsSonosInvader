@@ -93,7 +93,7 @@ sudo /etc/init.d/samba restart
 Clone this repo
 ```git clone https://github.com/Psychokiller1888/SnipsSonosInvader.git```
 
-This project includes an assistant. I have also shared the bundle Snips in case you want it for our already working assistant
+This project includes an assistant. I also shared the bundle Snips in case you want it for your already working assistant
 
 ```
 sudo rm -r /usr/share/snips/assistant
@@ -102,7 +102,7 @@ sudo systemctl restart "snips*"
 ```
 
 ## Sonos configuration
-On every player you have add a library that points to your Raspberry. If you raspberry ip is "**192.168.1.150**" add a library on Sonos that points to "**//192.168.1.150/share**"
+On every player you have to add a library that points to your Raspberry. If your raspberry ip is "**192.168.1.150**" add a library on Sonos that points to "**//192.168.1.150/share**"
 
 
 **!! Make sure that you name the sonos players the same as you name your Snips satellites !!**
