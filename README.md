@@ -93,7 +93,7 @@ sudo /etc/init.d/samba restart
 Clone this repo
 ```git clone https://github.com/Psychokiller1888/SnipsSonosInvader.git```
 
-This project includes an assistant. I also shared the bundle Snips in case you want it for your already working assistant
+This project includes an assistant. I also shared the bundle on Snips in case you want it for your already working assistant
 
 ```
 sudo rm -r /usr/share/snips/assistant
