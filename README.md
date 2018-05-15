@@ -8,6 +8,10 @@ I have been asked many time how it works, so you have here a full working exempl
 
 Snips will try, if instructed to, to speak through a Sonos player if one is detected in the room you are having the conversation. If no Sonos detected or not instructed to use Sonos it will use its internal speaker.
 
+This appoach stays local and guarantees your privacy
+
+A [Youtube demo](https://www.youtube.com/watch?v=JNmyfAP5HCo) to show you what this is about
+
 
 ## Installation
 ```
